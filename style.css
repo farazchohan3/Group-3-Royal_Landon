@@ -1,0 +1,370 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.top-nav{
+    background-color:  #ffe60094;
+    position: relative;
+}
+.top-nav-content{
+    padding-top: 4px;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 200px;
+}
+.nav-main{
+    background-color: #000000;
+    display: flex;
+    
+}
+.call-us{
+    margin-top: 5px;
+    color: white;
+    position: relative;
+    margin-left: 595px;
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+.nav-img{
+  border-radius: 4px;
+  width: 150px;
+  position: relative; left:10px;
+  width: 150px;
+  margin-left: 200px;
+  padding-bottom: 20px;
+}
+nav-list,ul{
+    padding-left: 70px;
+}
+nav-list,li,a{
+    padding: 5px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffe600b9;
+    list-style-type:none;
+    display: inline-block;
+   
+}
+.rangRover,img{
+    padding: 0%;
+    width: 100%;
+    object-fit:contain;
+}
+.driven-image{
+    position:relative;
+    max-width: 700px;
+    height: auto;
+    margin-left: 40px;
+}
+
+.drivenBox{
+    padding-top: 10px;
+    position: relative;
+    margin-left:30px ;
+    font-size: 20px;
+    text-justify: distribute;
+    text-align: center;
+}
+
+.section-3rd{
+    position: relative;
+    padding-top: 20px;
+    margin-top: 30px;
+    text-align: left;
+    display: inline-block;
+
+}
+.royal-landon{
+    position: relative;
+    width: 100%;
+    height: auto;
+    object-fit:contain;
+}
+.royal-text{
+    position: absolute;
+    font-size: 20px;
+    top: 70px;
+    left: 60px;
+}
+.section-4rth{
+    border: none;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.formdesgin{
+    position: absolute;
+    display: inline-block;
+    top: 10px;
+    left: 40px; 
+}
+.FormInternal{
+    padding: 20px;
+    padding-left: 24px;
+    background-color: rgba(246, 247, 248, 0.7);
+    border: none;
+    margin-left: 20px;
+}
+.textArea{
+    padding: 70px;
+    background-color: rgba(246, 247, 248, 0.7);
+    border: none;
+    width: 790px;
+    height: auto;
+    box-sizing:content-box;
+    margin-left: 15px;
+}
+.submitBotton{
+    padding:15px;
+    background-color: rgba(250, 235, 25, 0.7);
+    border: none;
+    width: 200px;
+    height: auto;
+    margin-left: 745px;
+}
+.car-Container{
+       position: relative;
+       padding-top: 20px;
+}
+.bmw{
+    position: absolute;
+    width: 350px;
+    height: auto;
+}
+.rangrover{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    left: 500px;
+}
+.mercedies{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    left: 1000px;
+
+}
+.buynow{
+    position: relative;
+    top: 150px;
+}
+.buynow1{
+    position: absolute;
+    box-shadow: 0px 4px 10px rgba(94, 94, 95, 0.7);
+    padding: 20px;
+    background-color: rgba(249, 253, 255, 0.904);
+    text-align: center;
+    width: 300px;
+    height: auto;
+}
+.Buybotton{
+    width: 100px;
+    height: 50px;
+    size: 10px;
+    background-color: #000000;
+    color: white;
+}
+.buynow2{
+
+    position: absolute;
+    box-shadow: 0px 4px 10px rgba(94, 94, 95, 0.7);
+    padding: 20px;
+    background-color: rgba(249, 253, 255, 0.904);
+    text-align: center;
+    width: 300px;
+    height: auto;
+    left: 510px;
+
+}
+.Buybotton2{
+    border: none;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(250, 235, 25);
+    color: black;
+}
+
+.buynow3{
+    position: absolute;
+    box-shadow: 0px 4px 10px rgba(94, 94, 95, 0.7);
+    padding: 20px;
+    background-color: rgba(249, 253, 255, 0.904);
+    text-align: center;
+    width: 300px;
+    height: auto;
+    left: 1010px;
+}
+.grid-container{
+    position: relative;
+    margin-top: 400px;
+    background-color: #000000;
+}
+.logoBox{
+    width: 140px;
+    height: auto;
+    padding-left: 410px;
+}
+.getqote{
+    color: #a39516ce;
+    position: absolute;
+    top: 30px;
+    padding-left: 610px;
+}
+.getqote1{
+    color: #a39516ce;
+    position: absolute;
+    top: 30px;
+    padding-left: 830px;
+
+}
+.getqote2{
+    color: #a39516ce;
+    position: absolute;
+    top: 30px;
+    padding-left: 1090px;
+
+}
+.line{
+    color: rgba(247, 240, 240, 0.363);
+    padding-left: 430px;
+    padding-right: 70px;
+}
+.internalContainter{
+    position: relative;
+}
+.tweets{
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a39516ce;
+    padding-left: 430px;
+}
+.service{
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a39516ce;
+    padding-left: 620px;
+}
+.req{
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a39516ce;
+    padding-left: 850px;
+}
+.contacts{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a39516ce;
+    padding-left: 1090px;   
+}
+.lastBox{
+    position: relative;
+}
+.eyesOnYou{
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #a8a8a4f5;
+    padding-left: 400px;
+    padding-right: 800px;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.footerlinks{
+    text-decoration: none;
+    position: absolute;
+    top: 25px;
+    padding-left: 610px;
+}
+.linkdec{
+    color: #ffe60094;
+    font-size: 15px;
+    padding: 4px;
+}
+.calRequest{
+    position: absolute;
+    top:170px;
+    padding-left: 850px;
+}
+.ReqDec{
+    margin-top: 10px;
+    border: 2px solid rgba(247, 240, 240, 0.3);
+    color: rgba(247, 240, 240, 0.4);
+    border-radius: 2px;
+    background-color: #000000;
+    padding: 10px;
+    width: 150px;
+    height: auto;
+}
+.ReqMsg{
+    margin-top: 10px;
+    padding: 10px;
+    width: 150px;
+    height: 60px;
+    border: 2px solid rgba(247, 240, 240, 0.3);
+    color: rgba(247, 240, 240, 0.4);
+    background-color: #000000;
+
+}
+.sendbotton{
+    margin-top: 10px;
+    padding: 10px;
+    width: 175px;
+    height: 45px;
+    background-color: #ffe60094;
+
+}
+.contactsDetails{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 170px;
+    margin-left: 1090px;
+}
+.NameArtical{
+    color: #d4d4d385;   
+}
+.copyrightFooter{
+    align-items: center;
+    position: relative;
+    background-color: #ffe60094;
+    padding: 20px;
+}
+.cpyright{
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    padding-left: 250px;
+}
+.Paypal{
+    padding-top: 8px;
+    position: absolute;
+    align-items: center;
+    width: 45px;
+    height: auto;
+    padding-left: 795px;
+}
+.masterCard{
+    position: absolute;
+    padding-top: 10px;
+    align-items: center;
+    width: 40px;
+    height: auto;
+    padding-left: 850px;
+}
+.american{
+    position: absolute;
+    padding-top: 10px;
+    align-items: center;
+    width: 40px;
+    height: auto;
+    padding-left: 900px;
+}
+.visacard{
+    padding-top: 7px;
+    align-items: center;
+    width: 45px;
+    height: auto;
+    padding-left: 950px;
+
+}
